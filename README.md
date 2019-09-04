@@ -1,2 +1,2 @@
-# SLDAS
-Land Data Assimilation System
+# LDAS
+Installation and Configuration of Land Data Assimilation System
